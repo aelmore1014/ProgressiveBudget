@@ -6,3 +6,7 @@ Simply type in the amount of money you want to add or take away and what it is f
 
 The app will also keep track of the changes to your budget so you don't forget what you have spend your money on.
 
+
+
+![screenshot](screenshot.png)
+
